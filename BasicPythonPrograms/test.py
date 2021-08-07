@@ -1,7 +1,5 @@
-msg="I Love you Manasi"
-print(msg)
-a=5
-b=45
-c=a*b 
-d=b/a
-print(d)
+thisset={1,5,8,7,6,7}
+print(thisset)
+print(type(thisset))
+for x in thisset:
+    print(x/2)
