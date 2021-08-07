@@ -14,5 +14,5 @@ x.intersection(y)
 print(x)
 x.symmetric_difference_update(y)
 #The symmetric_difference_update(y)method will keep only the elements that are NOT present in both sets
-z=x.symmetric_difference(y)
+z=x.symmetric_difference(y) #will return a new set ,that contains only the element that are NOT present 
 print(z)
