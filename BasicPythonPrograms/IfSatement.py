@@ -26,4 +26,4 @@ if x >10:
     else:
         print("but not above 20 ")        
 if b==a:
-    pass        
+    pass #PAss statement avoid to getting an error  
