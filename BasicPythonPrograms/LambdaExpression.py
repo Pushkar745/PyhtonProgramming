@@ -12,3 +12,4 @@ def myfunc(n):
     return lambda a: a*n
 mydoubler=myfunc(2)
 print(mydoubler(22))
+#Use lambda functions when an anonymous fuction is required for a short period of time.

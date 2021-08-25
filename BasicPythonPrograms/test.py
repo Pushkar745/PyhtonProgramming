@@ -1,5 +1,5 @@
-thisset={1,5,8,7,6,7}
-print(thisset)
-print(type(thisset))
-for x in thisset:
-    print(x/2)
+a="Pushkar"
+for i in range(str(a)):
+    rev=list(reversed(str(i))
+    print(rev)
+    
