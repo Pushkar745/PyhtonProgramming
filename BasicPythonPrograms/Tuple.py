@@ -14,6 +14,8 @@ print(thistuple[1:3])#Range
 print(thistuple[-3:-1])#Range of negative indexing
 if 1 in tuple1:
     print("yes , there is number one in Tuple")
+if "apple" in thistuple: #pass parameter as string 
+    print("Apple found ")    
     
 
 
