@@ -7,3 +7,4 @@ for x in adj:
 #Pass statement
 for x in [0,2,3]:
     pass        
+#Alredy practice for in list ,tuples,sets dict
