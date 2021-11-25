@@ -1,7 +1,5 @@
-import random
-a=range(1,20)
-print(random.randrange(1,20))
-for i in range(1,20):
-    print(i) 
-    for j in a:
-        print(i+j,end=", ")
+a=input("Enter the number to reverse ")
+while a>0:
+     rev=a%10
+     a=a//10
+print(a,end=" ")
