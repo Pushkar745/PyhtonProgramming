@@ -15,4 +15,4 @@ def palindrome(number):
 palindrome(252)
 palindrome(123)  
 print("original number", number)
-original_num=numbe
+original_num=number
