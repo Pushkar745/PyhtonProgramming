@@ -35,4 +35,3 @@ else:print("4 is not equal to or equal to 3")
 if(operator.ne(e, f)):
     print("4 is not equal to 3")
 else:print("4 is equal to 3")
-        
