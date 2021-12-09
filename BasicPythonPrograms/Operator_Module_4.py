@@ -1,4 +1,4 @@
-#Python code to Demostrate working of and_(),OR_(),invert()
+#Python code to Demostrate working of and_(),OR_(),invert(),xor()
 import operator
 a=1
 b=0
