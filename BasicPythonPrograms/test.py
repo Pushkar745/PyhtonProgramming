@@ -1,5 +1,4 @@
-a=input("Enter the number to reverse ")
-while a>0:
-     rev=a%10
-     a=a//10
-print(a,end=" ")
+#name=input("Enter the name ")
+phoneBook={(sam,99912222),(tom,11122222),(harry,12299933)}
+print(phoneBook[0])
+    
