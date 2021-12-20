@@ -1,0 +1,14 @@
+# Python program to demonstrate error if we
+# forget ti invoke __init__() of the parent
+class A:
+    def __init__(self, n='Pushkar'):
+        self.name = n
+
+
+class B(A):
+    def __init__(self, roll):
+        self.roll = roll
+
+
+object = B(23)
+print(object.name)
