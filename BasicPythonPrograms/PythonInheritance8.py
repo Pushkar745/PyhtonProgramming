@@ -10,4 +10,4 @@ class Child(Parent):
 #Driver's code
 object=Child()
 object.fun1()
-object.fun2()        
+object.fun2()         
