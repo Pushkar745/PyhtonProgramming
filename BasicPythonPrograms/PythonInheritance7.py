@@ -1,6 +1,7 @@
 # A Python program to demonstrate inheritance
 # Base class or Parent class
 class child:
+
     # constructor
     def __init__(self, name):
         self.name = name
