@@ -11,7 +11,7 @@ class Person:
         print("Hello my name is "+self.name)
         
 p1=Person("Pushakr", 26)
-p1.age=25
+
 p1.myfunc()
 
 #The self papameter is a refernce to the current instance of the class,and is used to access variable that belong to the class
