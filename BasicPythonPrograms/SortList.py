@@ -1,4 +1,5 @@
 thislist=[100,50,65,82,23]
+print(thislist[1])
 thislist.sort()
 print(thislist)
 thislist.sort(reverse=True)
